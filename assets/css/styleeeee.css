@@ -1,0 +1,187 @@
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.btn-submit {
+    width: 100px;
+}
+
+.btn-reset {
+    width: 100px;
+}
+
+.foto-thumbnail {
+    padding: .07rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    width: 3.3;
+    height: auto;
+}
+
+.foto-preview {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    width: 15rem;
+    height: 16rem;
+}
+
+.title-icon {
+    margin-right: 7px;
+
+}
+
+.cap {
+    text-transform: uppercase;
+}
+
+.bgputihh {
+    background-color: #fff;
+}
+
+.centr {
+    text-align: center;
+}
+
+.centrt {
+    align-items: center;
+}
+
+#customFile .custom-file-control:lang(en)::after {
+    content: "Select file...";
+}
+
+#customFile .custom-file-control:lang(en)::before {
+    content: "Click me";
+}
+
+/*when a value is selected, this class removes the content */
+.custom-file-control.selected:lang(en)::after {
+    content: "" !important;
+}
+
+.custom-file {
+    overflow: hidden;
+}
+
+.custom-file-control {
+    white-space: nowrap;
+}
+
+#custom-button {
+    padding: 10px;
+    color: white;
+    background-color: #009578;
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#custom-button:hover {
+    background-color: #00b28f;
+}
+
+#custom-text {
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #aaa;
+}
+
+.btnbulat{
+    border-radius: 50%;
+}
+
+.btn-gede{
+        padding: .10rem 2rem;
+        font-size: 1.25rem;
+        line-height: 1.5;
+        border-radius: .3rem
+}
+
+.btn1{
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .75rem 1.95rem;
+    font-size: 7.5rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out,
+    border-color .15s ease-in-out,
+    box-shadow .15s ease-in-out
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.alcen{
+    margin-left: 130px;
+}
+html,
+body {
+    height: 100%;
+}
+
+#container{
+        min-height:100%;
+        position:relative;
+}
+
+#footer{
+    width: 100%;
+    position:absolute;
+    
+}
+
+.mat{
+    margin: 5rem;
+}
+.marl2 {
+    margin-left: 4em;
+}
+.marl{
+    margin-left: 11rem;
+}
+
+.marr{
+    margin-right: 12em;
+}
+
+
+.marl3 {
+    margin-left: 37rem;
+}
+
+.dark-mode{
+background-color: #343a40 !important;
+}

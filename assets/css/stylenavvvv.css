@@ -1,0 +1,56 @@
+.mynav{
+    background-color: #343a40;
+}
+
+.navbar .navbar-brand{
+    color: #ffbe29;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+.navbar .navbar-brand:hover {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+.navbar .nav-item a{
+    color: #fff ;
+}
+
+.navbar .dropdown-menu{
+    background-color: #343a40;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #ffbe29;
+    color: #343a40 !important;
+}
+.navbar .nav-item .activeee {
+    color: #ffbe29 ;
+}
+
+.navbar .nav-item .activeee2 {
+    color: #ffbe29 !important;
+}
+
+
+.bb{
+font-weight: bold;
+}
+
+.leff{
+    text-align: left;
+}
+
+.ml-kiri{
+    margin-left: 46rem !important;
+}
+.activee a {
+    color: #ffbe29 !important;
+}
+
+
+a {
+    text-decoration: none !important;
+}
