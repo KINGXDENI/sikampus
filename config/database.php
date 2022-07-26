@@ -3,10 +3,10 @@
     date_default_timezone_set("ASIA/JAKARTA");
 
     // deklarasi parameter koneksi database
-    $server = "www.db4free.net"; // server database, default “localhost” atau “127.0.0.1”
-    $username = "muhdenisetiawan"; // username database, default “root”
-    $password = "123dendut"; // password database, default kosong
-    $database = "db_sekolahdeni"; // memilih database yang akan digunakan
+    $server = "sql202.epizy.com"; // server database, default “localhost” atau “127.0.0.1”
+    $username = "epiz_32237877"; // username database, default “root”
+    $password = "diKK70pcadmcTQ"; // password database, default kosong
+    $database = "epiz_32237877_db_sekolah"; // memilih database yang akan digunakan
 
     // koneksi database
     $db = mysqli_connect($server, $username, $password, $database);
